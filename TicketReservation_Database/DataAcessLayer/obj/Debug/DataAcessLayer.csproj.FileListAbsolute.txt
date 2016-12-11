@@ -1,0 +1,8 @@
+D:\University Work\Fifth Semester\Visual Programming\ASSIGNMENT 2\ThreeTierArchitecture\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+D:\University Work\Fifth Semester\Visual Programming\ASSIGNMENT 2\ThreeTierArchitecture\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+D:\University Work\Fifth Semester\Visual Programming\ASSIGNMENT 2\ThreeTierArchitecture\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+D:\University Work\Fifth Semester\Visual Programming\ASSIGNMENT 2\ThreeTierArchitecture\DataAcessLayer\obj\Debug\DataAcessLayer.pdb
+D:\University Work\Fifth Semester\Visual Programming\Assignmnt 3\ThreeTierArchitecture\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+D:\University Work\Fifth Semester\Visual Programming\Assignmnt 3\ThreeTierArchitecture\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+D:\University Work\Fifth Semester\Visual Programming\Assignmnt 3\ThreeTierArchitecture\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+D:\University Work\Fifth Semester\Visual Programming\Assignmnt 3\ThreeTierArchitecture\DataAcessLayer\obj\Debug\DataAcessLayer.pdb

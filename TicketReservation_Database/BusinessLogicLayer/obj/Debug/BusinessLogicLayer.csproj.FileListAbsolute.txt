@@ -1,0 +1,14 @@
+D:\University Work\Fifth Semester\Visual Programming\ASSIGNMENT 2\ThreeTierArchitecture\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\University Work\Fifth Semester\Visual Programming\ASSIGNMENT 2\ThreeTierArchitecture\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\University Work\Fifth Semester\Visual Programming\ASSIGNMENT 2\ThreeTierArchitecture\BusinessLogicLayer\bin\Debug\DataAcessLayer.dll
+D:\University Work\Fifth Semester\Visual Programming\ASSIGNMENT 2\ThreeTierArchitecture\BusinessLogicLayer\bin\Debug\DataAcessLayer.pdb
+D:\University Work\Fifth Semester\Visual Programming\ASSIGNMENT 2\ThreeTierArchitecture\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\University Work\Fifth Semester\Visual Programming\ASSIGNMENT 2\ThreeTierArchitecture\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\University Work\Fifth Semester\Visual Programming\ASSIGNMENT 2\ThreeTierArchitecture\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\University Work\Fifth Semester\Visual Programming\Assignmnt 3\ThreeTierArchitecture\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\University Work\Fifth Semester\Visual Programming\Assignmnt 3\ThreeTierArchitecture\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\University Work\Fifth Semester\Visual Programming\Assignmnt 3\ThreeTierArchitecture\BusinessLogicLayer\bin\Debug\DataAcessLayer.dll
+D:\University Work\Fifth Semester\Visual Programming\Assignmnt 3\ThreeTierArchitecture\BusinessLogicLayer\bin\Debug\DataAcessLayer.pdb
+D:\University Work\Fifth Semester\Visual Programming\Assignmnt 3\ThreeTierArchitecture\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\University Work\Fifth Semester\Visual Programming\Assignmnt 3\ThreeTierArchitecture\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\University Work\Fifth Semester\Visual Programming\Assignmnt 3\ThreeTierArchitecture\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
